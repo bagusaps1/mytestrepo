@@ -1,4 +1,4 @@
-name: List services in GCP
+name: List services in GCP test
 on:
   workflow_dispatch:
 
