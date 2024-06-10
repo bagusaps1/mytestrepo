@@ -9,3 +9,4 @@ text = pytesseract.image_to_string(image)
 
 # Print the extracted text
 print(text)
+print(text)
